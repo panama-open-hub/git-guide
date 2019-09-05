@@ -1,4 +1,4 @@
-# Cabeceras
+# Template para Utilizar Markdown
 # Cabecera H1
 ## Cabecera H2
 ### Cabecera H3
